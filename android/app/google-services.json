@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913117661475",
+    "project_id": "insightify-eea23",
+    "storage_bucket": "insightify-eea23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913117661475:android:0632f4497b463de9e16496",
+        "android_client_info": {
+          "package_name": "com.example.insightify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6re-m3-ThSe2J-y1cxrI4GzjV1VHmwMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913117661475:android:663d5a78a74c0b6be16496",
+        "android_client_info": {
+          "package_name": "com.insightify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6re-m3-ThSe2J-y1cxrI4GzjV1VHmwMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
